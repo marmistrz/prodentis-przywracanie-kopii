@@ -1,5 +1,5 @@
-## Przywracanie kopii w programie ProDentis 5.0
-### Restoring from backup in ProDentis 5.0
+### Przywracanie kopii w programie ProDentis 5.0
+#### Restoring from backup in ProDentis 5.0
 
 Ten poradnik ma znaczenie tylko dla polskich użytkowników i jest dostępny tylko po polsku.
 This guide is relevant only for Polish users, hence provided only in Polish.
